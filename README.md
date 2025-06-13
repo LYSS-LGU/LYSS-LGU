@@ -1,10 +1,8 @@
 # 👋 안녕하세요! LYSS-LGU입니다!
 
-<div align="center">
 LG U+ Why Not SW 캠프에서 **클라우드 기반 빅데이터 분석 및 웹 서비스 개발 과정**을 수료하며  
 **Python, 데이터 분석, 웹 개발**을 중심으로 공부하고 있습니다.  
 앞으로는 React, Node.js, AI 분야에도 도전하고 싶습니다. 💡
-</div>
 
 ---
 
