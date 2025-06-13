@@ -1,3 +1,4 @@
+<p align="center">
 # 안녕하세요! LYSS-LGU입니다!
 
 LG U+ Why Not SW 캠프에서 **클라우드 기반 빅데이터 분석 및 웹 서비스 개발 과정**을 수료하며  
@@ -47,3 +48,5 @@ LG U+ Why Not SW 캠프에서 **클라우드 기반 빅데이터 분석 및 웹 
 ## 📊 GitHub 활동 통계
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LYSS-LGU&show_icons=true&theme=default)
+
+</p>
