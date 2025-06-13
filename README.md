@@ -1,6 +1,5 @@
 # 안녕하세요! LYSS-LGU입니다!
 
-  
 LG U+ Why Not SW 캠프에서
 **클라우드 기반 빅데이터 분석 및 웹 서비스 개발 과정**을 통해서  
 **Python, 데이터 분석, 웹 개발**을 중심으로 공부하고 있습니다.  
@@ -105,14 +104,36 @@ LG U+ Why Not SW 캠프에서
 
 ---
 
-## 📫 연락처
+## Contact
 
-- 📧 Email: leeyss1991@gmail.com / lyss91@naver.com
-- 🐙 GitHub: [https://github.com/LYSS-LGU](https://github.com/LYSS-LGU)
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="mailto:leeyss1991@gmail.com">
+          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1606895317/noticon/cffnbxeed08p0l4u44ru.png" width="40"/><br/>
+          <sub><strong>Gmail</strong></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:lyss91@naver.com">
+          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1644169460/noticon/frvhykszxhjz4asz77oi.png" width="40"/><br/>
+          <sub><strong>Naver</strong></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LYSS-LGU" target="_blank">
+          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566899596/noticon/slhw4nu8hybreryigopq.png" width="40"/><br/>
+          <sub><strong>GitHub</strong></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub 활동 통계
+## GitHub 활동 통계
 
 <div align="center">
 
