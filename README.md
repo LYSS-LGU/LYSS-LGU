@@ -1,14 +1,19 @@
-# 👋 안녕하세요! LYSS-LGU입니다!
+# 안녕하세요! LYSS-LGU입니다!
 
-LG U+ Why Not SW 캠프에서 **클라우드 기반 빅데이터 분석 및 웹 서비스 개발 과정**을 수료하며  
+LG U+ Why Not SW 캠프에서
+**클라우드 기반 빅데이터 분석 및 웹 서비스 개발 과정**을 통해서  
 **Python, 데이터 분석, 웹 개발**을 중심으로 공부하고 있습니다.  
 앞으로는 React, Node.js, AI 분야에도 도전하고 싶습니다. 💡
 
 ---
 
-## 💻 기술 스택
+<div align="center">
 
-### 🧑‍💻 개발 언어
+## 🛠 기술 스택
+
+</div>
+
+### 개발 언어
 
 <div align="center">
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580829175/noticon/mkgg8pvtcifnagvwhjtt.svg" width="35" alt="Python" title="Python"/>
@@ -20,7 +25,7 @@ LG U+ Why Not SW 캠프에서 **클라우드 기반 빅데이터 분석 및 웹 
 
 ---
 
-### 🛠 개발 도구
+### 개발 도구
 
 <div align="center">
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566899596/noticon/slhw4nu8hybreryigopq.png" width="35" alt="Git & GitHub" title="Git & GitHub"/>
@@ -31,15 +36,20 @@ LG U+ Why Not SW 캠프에서 **클라우드 기반 빅데이터 분석 및 웹 
 
 ---
 
-## 🌐 포트폴리오
+## GitHub Pages
 
-👉 [GitHub Pages로 배포된 나의 포트폴리오 보기](https://lyss-lgu.github.io/homepage/)
+<div align="center"> 
+  <a href="https://lyss-lgu.github.io/homepage/" target="_blank">
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566899596/noticon/slhw4nu8hybreryigopq.png" width="40" alt="GitHub Pages" title="내 포트폴리오 보기"/><br/>
+    <strong>GitHub Pages</strong>
+  </a>
+</div>
 
 ---
 
 ## 📫 연락처
 
-- 📧 Email: leeyss1991@gmail.com / lyss91@naver.com  
+- 📧 Email: leeyss1991@gmail.com / lyss91@naver.com
 - 🐙 GitHub: [https://github.com/LYSS-LGU](https://github.com/LYSS-LGU)
 
 ---
