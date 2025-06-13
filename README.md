@@ -8,15 +8,25 @@ LG U+ Why Not SW 캠프에서 **클라우드 기반 빅데이터 분석 및 웹 
 
 ## 💻 기술 스택
 
+### 🧑‍💻 개발 언어
+
 <p align="left">
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580829175/noticon/mkgg8pvtcifnagvwhjtt.svg" width="30" alt="Python" title="Python"/>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1574153502/noticon/aun9na6b8htufz2lwdo0.jpg" width="30" alt="SQL" title="SQL"/>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png" width="30" alt="JavaScript" title="JavaScript"/>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="30" alt="HTML5" title="HTML5"/>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1678672480/noticon/qblxu9uo0uuitucuzhjy.png" width="30" alt="CSS" title="CSS"/>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1607786761/noticon/dfwzjgowyq7ccpko3x1g.png" width="30" alt="Google Cloud" title="Google Cloud"/>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603423163/noticon/az0cvs28lm7gxoowlsva.png" width="30" alt="MySQL" title="MySQL"/>
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629987802/noticon/qxvhd6gnagplyp6crw33.png" width="30" alt="VS Code" title="VS Code"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580829175/noticon/mkgg8pvtcifnagvwhjtt.svg" width="35" alt="Python" title="Python"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1574153502/noticon/aun9na6b8htufz2lwdo0.jpg" width="35" alt="SQL" title="SQL"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png" width="35" alt="JavaScript" title="JavaScript"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="35" alt="HTML5" title="HTML5"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1678672480/noticon/qblxu9uo0uuitucuzhjy.png" width="35" alt="CSS" title="CSS"/>
+</p>
+
+---
+
+### 🛠 개발 도구
+
+<p align="left">
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566899596/noticon/slhw4nu8hybreryigopq.png" width="35" alt="Git & GitHub" title="Git & GitHub"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629987802/noticon/qxvhd6gnagplyp6crw33.png" width="35" alt="VS Code" title="VS Code"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603423163/noticon/az0cvs28lm7gxoowlsva.png" width="35" alt="MySQL" title="MySQL"/>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1607786761/noticon/dfwzjgowyq7ccpko3x1g.png" width="35" alt="Google Cloud" title="Google Cloud"/>
 </p>
 
 ---
