@@ -133,10 +133,10 @@ LG U+ Why Not SW캠프
 
 ---
 
-## GitHub 활동 통계
+<!-- ## GitHub 활동 통계 -->
 
-<div align="center">
+<!-- <div align="center">  -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LYSS-LGU&show_icons=true&theme=default)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LYSS-LGU&show_icons=true&theme=default)  -->
 
-</div>
+<!-- </div>  -->
